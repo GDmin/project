@@ -1,6 +1,6 @@
 [
   {
-    "name": "test_project",
+    "name": "custom",
     "imageUri": "396654005341.dkr.ecr.us-east-1.amazonaws.com/test_project:latest"
   }
 ]
